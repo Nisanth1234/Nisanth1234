@@ -11,7 +11,7 @@
 - 🎓 B.Tech in **Information Technology** @ Er Perumal Manimekalai College of Engineering (2022–2026)
 - 💻 I build **responsive, scalable web apps** with the **MERN stack**
 - 🔭 Currently working on **Bulk Mail Application**, **Movie Browsing App**, and **Country Explorer**
-- - 🧠 **AI Full Stack Developer** — building end-to-end apps with AI tools & modern web stack
+- 🧠 **AI Full Stack Developer** — building end-to-end apps with AI tools & modern web stack
 
 - ⚡ Fun fact: I love turning ideas into clean, user-friendly interfaces
 
