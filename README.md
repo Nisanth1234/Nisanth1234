@@ -34,19 +34,13 @@
 ### 🛠️ Tech Stack
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" /></p>
 
 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></p>
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=js,python" /></p>
 
 **Tools & Deployment**
 <p>
@@ -63,26 +57,38 @@
 
 ---
 
+### 💭 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nisanth1234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisanth1234&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisanth1234&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nisanth1234&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Watch My Contributions Get Eaten
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nisanth1234&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Nisanth1234/Nisanth1234/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+> To enable the snake: create a GitHub Action at `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk). It auto-generates the SVG on the `output` branch.
 
 ---
 
-### 🏆 Certifications
+### 🏅 Certifications
 - Artificial Intelligence Fundamentals — **IBM SkillsBuild** (Jun 2025)
 - Python for Data Science — **IBM** (Jun 2025)
 - UI/UX Design Dynamics Workshop — **GCE, Bargur** (Mar 2024)
